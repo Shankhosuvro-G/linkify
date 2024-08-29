@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='Linkify-Linkedlist',  # Library name
-    version='0.1',  # Initial version
+    version='0.1.1',  # Initial version
     description='A Python library to convert arrays to linked lists',  # Short description
     long_description=open('README.md').read(),  # Long description from README.md
     long_description_content_type='text/markdown',  # Format of long description
