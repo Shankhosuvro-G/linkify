@@ -1,5 +1,5 @@
 import unittest
-from linkify import LinkedList
+from Linkify import LinkedList
 
 class TestLinkedList(unittest.TestCase):
     def test_from_array(self):

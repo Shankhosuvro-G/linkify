@@ -4,15 +4,15 @@
 
 ## Installation
 
-You can install the `linkify` library using pip:
+You can install the `Linkify` library using pip:
 
 ```bash
-pip install linkify
+pip install Linkify
 ```
 ## Usage
 - Creating a Linked List from an Array
 
-```from linkify import LinkedList
+```from Linkify import LinkedList
 
 # Create a linked list from an array
 arr = [1, 2, 3, 4, 5]
@@ -23,7 +23,7 @@ print(linked_list.display())  # Output: 1 -> 2 -> 3 -> 4 -> 5
 ```
 - Appending Elements
 
-```from linkify import LinkedList
+```from Linkify import LinkedList
 
 # Create an empty linked list
 linked_list = LinkedList()
@@ -39,7 +39,7 @@ print(linked_list.display())  # Output: 10 -> 20
 
 Imagine you are developing a task management system where tasks are frequently added and removed. Using a linked list for storing these tasks can be more efficient compared to arrays, especially for operations that involve frequent insertions and deletions.
 
-```from linkify import LinkedList
+```from Linkify import LinkedList
 
 # Initial list of tasks
 tasks = ['Task 1', 'Task 2', 'Task 3']
